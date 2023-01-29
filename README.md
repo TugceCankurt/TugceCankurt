@@ -15,5 +15,6 @@ Specialties: SQL | Python | Excel | Power BI | Project Management | Data Visuali
 
 🔗 Connect with me: <a href="https://www.linkedin.com/in/tugcebayraktar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankajhatheanalyst" height="30" width="40" /></a>
 
+👨‍💻 My resume: [pdf](https://github.com/TugceCankurt/TugceDataAnalyst/files/10530074/Tugce.Cankurt.Resume.pdf)
 
 
