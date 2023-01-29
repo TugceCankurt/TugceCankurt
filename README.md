@@ -28,5 +28,6 @@ Specialties: SQL | Python | Excel | Power BI | Project Management | Data Visuali
 
 
 <h3 align="left">My Certifications 🎓</h3> </a>
-- [SQL Advanced](https://github.com/TugceCankurt/TugceCankurt/files/10530261/sql_advanced.certificate.pdf)
+
+- [SQL (Advanced)](https://github.com/TugceCankurt/TugceCankurt/files/10530261/sql_advanced.certificate.pdf) - by HackerRank 
 
