@@ -27,5 +27,6 @@ Specialties: SQL | Python | Excel | Power BI | Project Management | Data Visuali
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/121382771/215338608-b5d39239-20e6-4e8a-b1a1-cb2a6060aa4d.jpg" alt="tableau" width="40" height="40"/> </a>
 
 
-
+<h3 align="left">My Certifications 🎓</h3> </a>
+- [SQL Advanced](https://github.com/TugceCankurt/TugceCankurt/files/10530261/sql_advanced.certificate.pdf)
 
