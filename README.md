@@ -30,6 +30,8 @@ Specialties: SQL | Python | Excel | Power BI | Project Management | Data Visuali
 <h3 align="left">My Certifications 🎓</h3> </a>
 
 -[SQL (Advanced)](https://github.com/TugceCankurt/TugceCankurt/files/10530261/sql_advanced.certificate.pdf) - by HackerRank 
+
 -[Data Analyst Associate](https://github.com/TugceCankurt/TugceCankurt/files/10530317/Datacamp.data.analyst.pdf) - by Datacamp
+
 -[Google Data Analytics Specialization](https://github.com/TugceCankurt/TugceCankurt/files/10530321/google.data.analytics.pdf) - by Google
 
