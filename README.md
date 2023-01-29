@@ -21,6 +21,7 @@ Specialties: SQL | Python | Excel | Power BI | Project Management | Data Visuali
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://user-images.githubusercontent.com/121382771/215337984-d76a83bb-b04a-491f-98cf-aad382bbb43b.png" width="40" height="40"/> </a>
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://user-images.githubusercontent.com/121382771/215338246-f3c9eca6-bc1d-48ec-b898-499ad240ab72.png" width="40" height="40"/> </a>
 
