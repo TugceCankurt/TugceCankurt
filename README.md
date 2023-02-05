@@ -17,7 +17,7 @@ Specialties: SQL | Python | Excel | Power BI | Project Management | Data Visuali
 
 👨‍💻 My resume: [pdf](https://github.com/TugceCankurt/TugceDataAnalyst/files/10530074/Tugce.Cankurt.Resume.pdf)
 
-### My Portfolio
+### :open_file_folder: My Portfolio
 -[SQL Projects](https://github.com/TugceCankurt/SQL-Projects/blob/main/README.md)
 
 <h3 align="left">Languages and Tools 🛠️ </h3>
