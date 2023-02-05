@@ -40,6 +40,5 @@ Specialties: SQL | Python | Excel | Power BI | Project Management | Data Visuali
 
 
 
-https://github.com/TugceCankurt/SQL-Projects/blob/main/README.md
 
 
