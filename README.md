@@ -17,6 +17,9 @@ Specialties: SQL | Python | Excel | Power BI | Project Management | Data Visuali
 
 👨‍💻 My resume: [pdf](https://github.com/TugceCankurt/TugceDataAnalyst/files/10530074/Tugce.Cankurt.Resume.pdf)
 
+### My Portfolio
+-[SQL Projects](https://github.com/TugceCankurt/SQL-Projects/blob/main/README.md)
+
 <h3 align="left">Languages and Tools 🛠️ </h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -34,4 +37,9 @@ Specialties: SQL | Python | Excel | Power BI | Project Management | Data Visuali
 -[Data Analyst Associate](https://github.com/TugceCankurt/TugceCankurt/files/10530317/Datacamp.data.analyst.pdf) - by Datacamp
 
 -[Google Data Analytics Specialization](https://github.com/TugceCankurt/TugceCankurt/files/10530321/google.data.analytics.pdf) - by Google
+
+
+
+https://github.com/TugceCankurt/SQL-Projects/blob/main/README.md
+
 
