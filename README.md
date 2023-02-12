@@ -20,7 +20,7 @@ Specialties: SQL | Python | Excel | Power BI | Project Management | Data Visuali
 ### :open_file_folder: My Portfolio
 -[SQL Projects](https://github.com/TugceCankurt/SQL-Projects/blob/main/README.md)
 
--[Excel Projects](https://github.com/TugceCankurt/Excel-Projects)
+-[Excel Projects](https://github.com/TugceCankurt/Excel-Projects/blob/main/README.md)
 
 <h3 align="left">Languages and Tools 🛠️ </h3>
 <p align="left"> 
