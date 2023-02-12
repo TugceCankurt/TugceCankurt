@@ -13,7 +13,7 @@ Specialties: SQL | Python | Excel | Power BI | Project Management | Data Visuali
 
 📫 Email me at: **tugcebayraktarr@gmail.com** 
 
-🔗 Connect with me: <a href="https://www.linkedin.com/in/tugcebayraktar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankajhatheanalyst" height="30" width="40" /></a>
+🔗 Connect with me: <a href="https://www.linkedin.com/in/tugcebayraktar/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/121382771/218317799-98ce0a23-4110-4c7d-8920-b9927057f3af.png" height="30" width="40" /></a>
 
 👨‍💻 My resume: [pdf](https://github.com/TugceCankurt/TugceDataAnalyst/files/10530074/Tugce.Cankurt.Resume.pdf)
 
@@ -27,7 +27,7 @@ Specialties: SQL | Python | Excel | Power BI | Project Management | Data Visuali
 -[Power BI Projects](https://github.com/TugceCankurt/PowerBI-Projects/blob/main/README.md)
 
 
-<h3 align="left">Languages and Tools 🛠️ </h3>
+<h3 align="left">🛠️ Languages and Tools  </h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
@@ -37,7 +37,7 @@ Specialties: SQL | Python | Excel | Power BI | Project Management | Data Visuali
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/121382771/215338608-b5d39239-20e6-4e8a-b1a1-cb2a6060aa4d.jpg" alt="tableau" width="40" height="40"/> </a>
 
 
-<h3 align="left">My Certifications 🎓</h3> </a>
+<h3 align="left">🎓 My Certifications </h3> </a>
 
 -[SQL (Advanced)](https://github.com/TugceCankurt/TugceCankurt/files/10530261/sql_advanced.certificate.pdf) - by HackerRank 
 
