@@ -39,6 +39,8 @@ Specialties: SQL | Python | Excel | Power BI | Project Management | Data Visuali
 
 <h3 align="left">🎓 My Certifications </h3> </a>
 
+-[Microsoft Certified Power Platform Fundamentals](https://www.credly.com/badges/76db69e1-0d0f-4585-94de-462651d118f2/public_url) - by Microsoft
+
 -[SQL (Advanced)](https://github.com/TugceCankurt/TugceCankurt/files/10530261/sql_advanced.certificate.pdf) - by HackerRank 
 
 -[Data Analyst Associate](https://github.com/TugceCankurt/TugceCankurt/files/10530317/Datacamp.data.analyst.pdf) - by Datacamp
